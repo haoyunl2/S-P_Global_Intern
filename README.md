@@ -28,3 +28,7 @@ using DrWatson
 @quickactivate "S&P_Global_Intern"
 ```
 which auto-activate the project and enable local path handling from DrWatson.
+
+There are several different showcase experiments in the scripts folder. The first one is the most simple one with several layers, the second one is with baffles, and the third one is with faults. Conducting simulations on different topography is for comparaing the impact of the difference in geological structure on the CO2 injection plume behavior. The fourth one is with larger range of depth, but with a sealed reservoir. The later ones are all with larger range and more reasonable box size. The fifth one is with several layers. The sixth one is with an horizontal injection well. The sixth is for with baffles while the seventh is with the fault.
+
+Then, we also try with the 3D simulation model. The 3D model is based on unstructured mesh.

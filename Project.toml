@@ -1,7 +1,15 @@
 name = "S&P_Global_Intern"
 authors = ["Haoyun Li"]
-[compat]
-julia = "1.10.3"
-DrWatson = "2.15.0"
+
 [deps]
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Geodesy = "0ef565a4-170c-5f04-8de2-149903a85f3d"
+HYPRE = "b5ffcf37-a2bd-41ab-a3da-4bd9bc8ad771"
+Jutul = "2b460a1a-8a2b-45b2-b125-b5c536396eb9"
+JutulDarcy = "82210473-ab04-4dce-b31b-11573c4f8e0a"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+
+[compat]
+DrWatson = "2.15.0"
+julia = "1.10.3"
